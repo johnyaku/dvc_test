@@ -1,0 +1,4 @@
+[core]
+    remote = sonram_test
+['remote "sonram_test"']
+    url = ssh://gadi-dm.nci.org.au/g/data/a56/dvc/remotes/test_dvc_sonram
