@@ -1,0 +1,11 @@
+md5: 40647f9f424430823a7acd8e7ba8f966
+frozen: true
+deps:
+- path: 10x/transcriptomes/refdata-gex-GRCh38-2020-A/reference.json
+  repo:
+    url: git@github.com:Swarbricklab-registries/references.git
+    rev_lock: 6bcde0072da780b1982f78187b1afc4cba2d9b9c
+outs:
+- md5: 1ed43a103606b6251f5db5a6717484fe
+  size: 456
+  path: reference.json
